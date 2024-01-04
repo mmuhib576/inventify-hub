@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.wear.widget.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:background="#ffffff"
+    android:paddingBottom="16dp"
+    tools:context=".UpdateProduct">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <EditText
+                android:id="@+id/editProductName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Product Name" />
+
+            <EditText
+                android:id="@+id/editProductPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editProductName"
+                android:layout_marginTop="8dp"
+                android:inputType="numberDecimal"
+                android:hint="Product Price" />
+
+            <EditText
+                android:id="@+id/editProductDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editProductPrice"
+                android:layout_marginTop="8dp"
+                android:hint="Product Description" />
+
+            <EditText
+                android:id="@+id/editProductQuantity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editProductDescription"
+                android:layout_marginTop="8dp"
+                android:inputType="number"
+                android:hint="Product Quantity" />
+
+            <Button
+                android:id="@+id/addProductButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editProductQuantity"
+                android:layout_marginTop="16dp"
+                android:background="#212121"
+                android:minHeight="1dp"
+                android:minWidth="1dp"
+                android:text="Update"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/deleteProductButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/addProductButton"
+                android:layout_marginTop="16dp"
+                android:background="#FF0000"
+                android:minHeight="1dp"
+                android:minWidth="1dp"
+                android:text="Delete"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.wear.widget.BoxInsetLayout>

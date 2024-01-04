@@ -1,0 +1,567 @@
+{
+  "project_info": {
+    "project_number": "388854153100",
+    "firebase_url": "https://test-pro-9eaad.firebaseio.com",
+    "project_id": "test-pro-9eaad",
+    "storage_bucket": "test-pro-9eaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:6d7d160511e27a92",
+        "android_client_info": {
+          "package_name": "com.app.sample.fchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:d7b29391973cb4028620a9",
+        "android_client_info": {
+          "package_name": "com.autoserveclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:ab81afbd2838bacc8620a9",
+        "android_client_info": {
+          "package_name": "com.awhitta.mywant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:bd052b43775706068620a9",
+        "android_client_info": {
+          "package_name": "com.couching.couching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:85d5a0e2e2654cdd8620a9",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-803h0ba41aspqqeis4ja8oh717fk25v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "1310b6ec7413574546293da600d7400ae23c7bbe"
+          }
+        },
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:e73217fd004c78fe8620a9",
+        "android_client_info": {
+          "package_name": "com.example.gymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:26ba9484d23b14fd8620a9",
+        "android_client_info": {
+          "package_name": "com.inventoryhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:8b3db74940cd52cd8620a9",
+        "android_client_info": {
+          "package_name": "com.mkteck.whatsapp.story.autoservevendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:bb772814b4c34570",
+        "android_client_info": {
+          "package_name": "com.noorpk.patrickferm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:00dc1caf038247a78620a9",
+        "android_client_info": {
+          "package_name": "com.oota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:c7a1562c3bbf80678620a9",
+        "android_client_info": {
+          "package_name": "com.shopinnadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:746cae48967c63ab8620a9",
+        "android_client_info": {
+          "package_name": "com.solo.motive.mafia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:c44dfa0b03a143ee8620a9",
+        "android_client_info": {
+          "package_name": "com.solo.motive.mafia.de_motive_mafia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:8e0c663e797c404b8620a9",
+        "android_client_info": {
+          "package_name": "com.tesquito.tesquito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388854153100:android:25fbaf98fde2935c8620a9",
+        "android_client_info": {
+          "package_name": "mu.bnpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388854153100-pf4u8rdmrco444bfc7gbh1a9p0vjjmua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mu.bnpl",
+            "certificate_hash": "86f684a0ff8de05f68de5e93e8c544e1d0fa955a"
+          }
+        },
+        {
+          "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7QtH3ksQeT5WXfXAhPrLQk3vvmv-nNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388854153100-urgm6h7vnoctcsuk9jm4lukoroqrdouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388854153100-imdia2lvevrscmpco2j6bpqfns1erff4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
